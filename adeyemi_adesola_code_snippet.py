@@ -1,5 +1,5 @@
 #Name: Adeyemi Adesola
-#Github Address: https://github.com/yourgithubusername
+#Github Address: https://github.com/yemiadesola/security_log/edit/main/adeyemi_adesola_code_snippet.py
 #Code snipet and output in Python - Security log analysis 
 #Installing the 3 libraries below
 #libraries pip install pandas -- instal library for reading csv
